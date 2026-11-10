@@ -7,6 +7,3 @@ Maintainer: Your Name
 Author: Your Name
 Section: Tweaks
 Depends: mobilesubstrate | ellekit, firmware (>= 14.0)
-Conflicts: 
-Replaces: 
-Provides: 
